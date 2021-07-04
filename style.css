@@ -1,0 +1,44 @@
+body{
+font-family: 'Roboto', sans-serif;
+margin: 0px;
+}
+h1{
+font-size:30px;
+}
+section{
+display: flex;
+
+}
+.true{
+color: tomato;
+
+}
+
+.poto img{
+width:90%;
+
+}
+.tor{
+ padding-left: 10%;
+ width: 50%;
+margin-top: 110px;
+}
+.hip{
+background: orangered;
+color: paleturquoise;
+padding: 10px 20px;
+border-radius: 10px;
+text-decoration: none;
+font-size: 40;
+}
+a:hover {
+  background-color: grey;
+}
+.reputaton{
+background-image: url(image/top-banner.png);
+background-repeat: no-repeat;
+
+}
+
+
+
