@@ -5,8 +5,9 @@ margin: 0px;
 h1{
 font-size:30px;
 }
-section{
+.himo{
 display: flex;
+margin-bottom: 150px;
 
 }
 .true{
@@ -38,6 +39,7 @@ a:hover {
 background-image: url(image/top-banner.png);
 background-repeat: no-repeat;
 
+
 }
 .yoyo{
   padding-left: 10%;
@@ -59,6 +61,36 @@ background-repeat: no-repeat;
     background-image: url(image/dream-bg.png);
     background-repeat: no-repeat;
   background-position: right;
+  margin-top: 100px;
   }
+  .roco{
+    margin-top: 100px;
+
+  }
+  .hop{
+color: red;
+
+  }
+  .roco{
+background-image: url(image/exp-bg.png);
+background-repeat: no-repeat;
+background-position: left;
+
+  }
+  .popo{
+    box-shadow: 10px 10px 40px red;
+    width: 60%;
+    margin-left: 5%;
+    margin-right:5%;
+    padding-left: 20px;
+   border-radius: 40px;
+
+  }
+  footer p{
+text-align: center;
+color: salmon;
+background: springgreen;
+  }
+
 
 
