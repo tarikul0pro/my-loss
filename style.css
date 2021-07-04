@@ -39,6 +39,26 @@ background-image: url(image/top-banner.png);
 background-repeat: no-repeat;
 
 }
-
+.yoyo{
+  padding-left: 10%;
+  width: 50%;
+ margin-top: 110px;
+ }
+ .oror{
+  background: orangered;
+  color: paleturquoise;
+  padding: 10px 20px;
+  border-radius: 10px;
+  text-decoration: none;
+  font-size: 40;
+  }
+  a:hover {
+    background-color: grey;
+  }
+  .remo{
+    background-image: url(image/dream-bg.png);
+    background-repeat: no-repeat;
+  background-position: right;
+  }
 
 
